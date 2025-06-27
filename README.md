@@ -4,7 +4,6 @@
 A custom-designed Bluetooth RGB LED strip controller using the **ESP32-WROOM** module.  
 This project is part of my hardware design portfolio under the brand **Serially Wired**.
 
-![3D Render]("./3D_view.png")
 
 ## 🔧 Features
 
